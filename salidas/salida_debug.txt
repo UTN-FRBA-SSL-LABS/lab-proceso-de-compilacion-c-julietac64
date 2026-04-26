@@ -1,5 +1,6 @@
 === Laboratorio de Compilacion en C (v1.0) ===
 
+[DEBUG] Iniciando main
 sumar(3, 4)       = 7
 CUADRADO(5)      = 25
 MAX(7, 12)        = 12
